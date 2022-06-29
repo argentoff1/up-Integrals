@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1654775072 source:c:\users\инет\desktop\task4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
+1656532176 source:c:\users\maxim\desktop\code\c\up-04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
